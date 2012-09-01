@@ -1,6 +1,13 @@
-update=Sat 01 Sep 2012 09:42:13 PM CEST
+update=Sat 01 Sep 2012 11:31:44 PM CEST
 version=1
 last_client=pcbnew
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
 LibDir=
@@ -63,13 +70,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[general]
-version=1
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=320

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-jan-04)-stable date = Sat 01 Sep 2012 09:41:43 PM CEST
+Cmp-Mod V01 Created by CvPcb (2012-jan-04)-stable date = Sat 01 Sep 2012 11:06:46 PM CEST
 
 BeginCmp
 TimeStamp = /50426442;
@@ -15,6 +15,342 @@ IdModule  = -C1206;
 EndCmp
 
 BeginCmp
+TimeStamp = /504273D9;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275E5;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275E9;
+Reference = JP3;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275ED;
+Reference = JP4;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275F1;
+Reference = JP5;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275F4;
+Reference = JP6;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275F7;
+Reference = JP7;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275FA;
+Reference = JP8;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504275FE;
+Reference = JP9;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427601;
+Reference = JP10;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427604;
+Reference = JP11;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427607;
+Reference = JP12;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /5042760B;
+Reference = JP13;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427612;
+Reference = JP14;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427614;
+Reference = JP15;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /5042761A;
+Reference = JP16;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /5042761D;
+Reference = JP17;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427620;
+Reference = JP18;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427623;
+Reference = JP19;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427626;
+Reference = JP20;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /5042762E;
+Reference = JP21;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427631;
+Reference = JP22;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427634;
+Reference = JP23;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /50427636;
+Reference = JP24;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277C4;
+Reference = JP25;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277C3;
+Reference = JP26;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277C2;
+Reference = JP27;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277C1;
+Reference = JP28;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277C0;
+Reference = JP29;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277BF;
+Reference = JP30;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277BE;
+Reference = JP31;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277BD;
+Reference = JP32;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277BC;
+Reference = JP33;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277BB;
+Reference = JP34;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277BA;
+Reference = JP35;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B9;
+Reference = JP36;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B8;
+Reference = JP37;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B7;
+Reference = JP38;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B6;
+Reference = JP39;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B5;
+Reference = JP40;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B4;
+Reference = JP41;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B3;
+Reference = JP42;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B2;
+Reference = JP43;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B1;
+Reference = JP44;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277B0;
+Reference = JP45;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277AF;
+Reference = JP46;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277AE;
+Reference = JP47;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /504277AD;
+Reference = JP48;
+ValeurCmp = JUMPER;
+IdModule  = MADW__SMD-solder-bridge-narrow;
+EndCmp
+
+BeginCmp
 TimeStamp = /50424533;
 Reference = P1;
 ValeurCmp = SOP24-300-1.00;
@@ -22,42 +358,42 @@ IdModule  = MADW__SOP24-300-1.00;
 EndCmp
 
 BeginCmp
-TimeStamp = /504244A6;
+TimeStamp = /504244A9;
 Reference = P2;
 ValeurCmp = CONN_12;
 IdModule  = MADW__SIL-12;
 EndCmp
 
 BeginCmp
-TimeStamp = /504244A9;
+TimeStamp = /504244A6;
 Reference = P3;
 ValeurCmp = CONN_12;
 IdModule  = MADW__SIL-12;
 EndCmp
 
 BeginCmp
-TimeStamp = /5042645F;
+TimeStamp = /50426467;
 Reference = P4;
 ValeurCmp = CONN_1;
 IdModule  = PIN_ARRAY_1;
 EndCmp
 
 BeginCmp
-TimeStamp = /50426464;
+TimeStamp = /5042646A;
 Reference = P5;
 ValeurCmp = CONN_1;
 IdModule  = PIN_ARRAY_1;
 EndCmp
 
 BeginCmp
-TimeStamp = /50426467;
+TimeStamp = /5042645F;
 Reference = P6;
 ValeurCmp = CONN_1;
 IdModule  = PIN_ARRAY_1;
 EndCmp
 
 BeginCmp
-TimeStamp = /5042646A;
+TimeStamp = /50426464;
 Reference = P7;
 ValeurCmp = CONN_1;
 IdModule  = PIN_ARRAY_1;

@@ -1,5 +1,223 @@
-# EESchema Netlist Version 1.1 created  Sat 01 Sep 2012 10:39:21 PM CEST
+# EESchema Netlist Version 1.1 created  Sun 02 Sep 2012 12:24:04 AM CEST
 (
+ ( /504277C4 $noname  JP25 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_1 )
+  (    2 VCC )
+ )
+ ( /504277C3 $noname  JP26 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_2 )
+  (    2 VCC )
+ )
+ ( /504277C2 $noname  JP27 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_3 )
+  (    2 VCC )
+ )
+ ( /504277C1 $noname  JP28 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_4 )
+  (    2 VCC )
+ )
+ ( /504277C0 $noname  JP29 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_5 )
+  (    2 VCC )
+ )
+ ( /504277BF $noname  JP30 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_6 )
+  (    2 VCC )
+ )
+ ( /504277BE $noname  JP31 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_7 )
+  (    2 VCC )
+ )
+ ( /504277BD $noname  JP32 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_8 )
+  (    2 VCC )
+ )
+ ( /504277BC $noname  JP33 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_9 )
+  (    2 VCC )
+ )
+ ( /504277BB $noname  JP34 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_10 )
+  (    2 VCC )
+ )
+ ( /504277BA $noname  JP35 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_11 )
+  (    2 VCC )
+ )
+ ( /504277B9 $noname  JP36 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_12 )
+  (    2 VCC )
+ )
+ ( /504277B8 $noname  JP37 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_13 )
+  (    2 VCC )
+ )
+ ( /504277B7 $noname  JP38 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_14 )
+  (    2 VCC )
+ )
+ ( /504277B6 $noname  JP39 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_15 )
+  (    2 VCC )
+ )
+ ( /504277B5 $noname  JP40 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_16 )
+  (    2 VCC )
+ )
+ ( /504277B4 $noname  JP41 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_17 )
+  (    2 VCC )
+ )
+ ( /504277B3 $noname  JP42 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_18 )
+  (    2 VCC )
+ )
+ ( /504277B2 $noname  JP43 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_19 )
+  (    2 VCC )
+ )
+ ( /504277B1 $noname  JP44 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_20 )
+  (    2 VCC )
+ )
+ ( /504277B0 $noname  JP45 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_21 )
+  (    2 VCC )
+ )
+ ( /504277AF $noname  JP46 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_22 )
+  (    2 VCC )
+ )
+ ( /504277AE $noname  JP47 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_23 )
+  (    2 VCC )
+ )
+ ( /504277AD $noname  JP48 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_24 )
+  (    2 VCC )
+ )
+ ( /50427636 $noname  JP24 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_24 )
+  (    2 GND )
+ )
+ ( /50427634 $noname  JP23 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_23 )
+  (    2 GND )
+ )
+ ( /50427631 $noname  JP22 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_22 )
+  (    2 GND )
+ )
+ ( /5042762E $noname  JP21 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_21 )
+  (    2 GND )
+ )
+ ( /50427626 $noname  JP20 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_20 )
+  (    2 GND )
+ )
+ ( /50427623 $noname  JP19 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_19 )
+  (    2 GND )
+ )
+ ( /50427620 $noname  JP18 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_18 )
+  (    2 GND )
+ )
+ ( /5042761D $noname  JP17 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_17 )
+  (    2 GND )
+ )
+ ( /5042761A $noname  JP16 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_16 )
+  (    2 GND )
+ )
+ ( /50427614 $noname  JP15 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_15 )
+  (    2 GND )
+ )
+ ( /50427612 $noname  JP14 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_14 )
+  (    2 GND )
+ )
+ ( /5042760B $noname  JP13 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_13 )
+  (    2 GND )
+ )
+ ( /50427607 $noname  JP12 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_12 )
+  (    2 GND )
+ )
+ ( /50427604 $noname  JP11 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_11 )
+  (    2 GND )
+ )
+ ( /50427601 $noname  JP10 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_10 )
+  (    2 GND )
+ )
+ ( /504275FE $noname  JP9 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_9 )
+  (    2 GND )
+ )
+ ( /504275FA $noname  JP8 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_8 )
+  (    2 GND )
+ )
+ ( /504275F7 $noname  JP7 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_7 )
+  (    2 GND )
+ )
+ ( /504275F4 $noname  JP6 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_6 )
+  (    2 GND )
+ )
+ ( /504275F1 $noname  JP5 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_5 )
+  (    2 GND )
+ )
+ ( /504275ED $noname  JP4 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_4 )
+  (    2 GND )
+ )
+ ( /504275E9 $noname  JP3 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_3 )
+  (    2 GND )
+ )
+ ( /504275E5 $noname  JP2 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_2 )
+  (    2 GND )
+ )
+ ( /50424533 $noname  P1 SOP24-300-1.00 {Lib=DIL24}
+  (    1 /CHIP_1 )
+  (    2 /CHIP_2 )
+  (    3 /CHIP_3 )
+  (    4 /CHIP_4 )
+  (    5 /CHIP_5 )
+  (    6 /CHIP_6 )
+  (    7 /CHIP_7 )
+  (    8 /CHIP_8 )
+  (    9 /CHIP_9 )
+  (   10 /CHIP_10 )
+  (   11 /CHIP_11 )
+  (   12 /CHIP_12 )
+  (   13 /CHIP_13 )
+  (   14 /CHIP_14 )
+  (   15 /CHIP_15 )
+  (   16 /CHIP_16 )
+  (   17 /CHIP_17 )
+  (   18 /CHIP_18 )
+  (   19 /CHIP_19 )
+  (   20 /CHIP_20 )
+  (   21 /CHIP_21 )
+  (   22 /CHIP_22 )
+  (   23 /CHIP_23 )
+  (   24 /CHIP_24 )
+ )
+ ( /504273D9 $noname  JP1 JUMPER {Lib=JUMPER}
+  (    1 /CHIP_1 )
+  (    2 GND )
+ )
  ( /5042646A $noname  P5 CONN_1 {Lib=CONN_1}
   (    1 GND )
  )
@@ -20,59 +238,33 @@
   (    1 VCC )
   (    2 GND )
  )
- ( /50424533 $noname  P1 SOP24-300-1.00 {Lib=DIL24}
-  (    1 N-000001 )
-  (    2 N-000014 )
-  (    3 N-000024 )
-  (    4 N-000023 )
-  (    5 N-000022 )
-  (    6 N-000021 )
-  (    7 N-000020 )
-  (    8 N-000019 )
-  (    9 N-000018 )
-  (   10 N-000017 )
-  (   11 N-000016 )
-  (   12 N-000015 )
-  (   13 N-000003 )
-  (   14 N-000004 )
-  (   15 N-000005 )
-  (   16 N-000006 )
-  (   17 N-000007 )
-  (   18 N-000008 )
-  (   19 N-000009 )
-  (   20 N-000010 )
-  (   21 N-000011 )
-  (   22 N-000012 )
-  (   23 N-000013 )
-  (   24 N-000002 )
+ ( /504244A9 $noname  P2 CONN_12 {Lib=CONN_12}
+  (    1 /CHIP_1 )
+  (    2 /CHIP_2 )
+  (    3 /CHIP_3 )
+  (    4 /CHIP_4 )
+  (    5 /CHIP_5 )
+  (    6 /CHIP_6 )
+  (    7 /CHIP_7 )
+  (    8 /CHIP_8 )
+  (    9 /CHIP_9 )
+  (   10 /CHIP_10 )
+  (   11 /CHIP_11 )
+  (   12 /CHIP_12 )
  )
- ( /504244A9 $noname  P3 CONN_12 {Lib=CONN_12}
-  (    1 N-000001 )
-  (    2 N-000014 )
-  (    3 N-000024 )
-  (    4 N-000023 )
-  (    5 N-000022 )
-  (    6 N-000021 )
-  (    7 N-000020 )
-  (    8 N-000019 )
-  (    9 N-000018 )
-  (   10 N-000017 )
-  (   11 N-000016 )
-  (   12 N-000015 )
- )
- ( /504244A6 $noname  P2 CONN_12 {Lib=CONN_12}
-  (    1 N-000002 )
-  (    2 N-000013 )
-  (    3 N-000012 )
-  (    4 N-000011 )
-  (    5 N-000010 )
-  (    6 N-000009 )
-  (    7 N-000008 )
-  (    8 N-000007 )
-  (    9 N-000006 )
-  (   10 N-000005 )
-  (   11 N-000004 )
-  (   12 N-000003 )
+ ( /504244A6 $noname  P3 CONN_12 {Lib=CONN_12}
+  (    1 /CHIP_24 )
+  (    2 /CHIP_23 )
+  (    3 /CHIP_22 )
+  (    4 /CHIP_21 )
+  (    5 /CHIP_20 )
+  (    6 /CHIP_19 )
+  (    7 /CHIP_18 )
+  (    8 /CHIP_17 )
+  (    9 /CHIP_16 )
+  (   10 /CHIP_15 )
+  (   11 /CHIP_14 )
+  (   12 /CHIP_13 )
  )
 )
 *
@@ -90,87 +282,183 @@ $endlist
 $endfootprintlist
 }
 { Pin List by Nets
-Net 1 "" ""
- P3 1
- P1 1
-Net 2 "" ""
- P2 1
- P1 24
-Net 3 "" ""
- P1 13
- P2 12
-Net 4 "" ""
- P1 14
- P2 11
-Net 5 "" ""
- P1 15
- P2 10
-Net 6 "" ""
- P2 9
- P1 16
-Net 7 "" ""
- P1 17
- P2 8
-Net 8 "" ""
- P2 7
- P1 18
-Net 9 "" ""
- P2 6
- P1 19
-Net 10 "" ""
- P1 20
- P2 5
-Net 11 "" ""
- P1 21
+Net 1 "/CHIP_4" "CHIP_4"
  P2 4
-Net 12 "" ""
- P1 22
- P2 3
-Net 13 "" ""
- P1 23
- P2 2
-Net 14 "" ""
- P1 2
- P3 2
-Net 15 "" ""
- P1 12
- P3 12
-Net 16 "" ""
- P1 11
- P3 11
-Net 17 "" ""
- P1 10
- P3 10
-Net 18 "" ""
- P1 9
- P3 9
-Net 19 "" ""
- P3 8
- P1 8
-Net 20 "" ""
- P1 7
- P3 7
-Net 21 "" ""
- P1 6
- P3 6
-Net 22 "" ""
- P1 5
- P3 5
-Net 23 "" ""
+ JP4 1
  P1 4
- P3 4
-Net 24 "" ""
+ JP28 1
+Net 2 "/CHIP_3" "CHIP_3"
  P1 3
+ P2 3
+ JP27 1
+ JP3 1
+Net 3 "/CHIP_2" "CHIP_2"
+ JP26 1
+ P2 2
+ P1 2
+ JP2 1
+Net 4 "/CHIP_1" "CHIP_1"
+ JP1 1
+ JP25 1
+ P2 1
+ P1 1
+Net 5 "/CHIP_5" "CHIP_5"
+ JP5 1
+ JP29 1
+ P1 5
+ P2 5
+Net 6 "/CHIP_22" "CHIP_22"
+ JP46 1
  P3 3
-Net 25 "GND" "GND"
- P5 1
- P4 1
- C2 2
- C1 2
-Net 26 "VCC" "VCC"
- P7 1
+ JP22 1
+ P1 22
+Net 7 "/CHIP_13" "CHIP_13"
+ P1 13
+ P3 12
+ JP37 1
+ JP13 1
+Net 8 "/CHIP_14" "CHIP_14"
+ JP14 1
+ JP38 1
+ P3 11
+ P1 14
+Net 9 "/CHIP_15" "CHIP_15"
+ P1 15
+ JP15 1
+ JP39 1
+ P3 10
+Net 10 "/CHIP_16" "CHIP_16"
+ P3 9
+ JP40 1
+ JP16 1
+ P1 16
+Net 11 "/CHIP_17" "CHIP_17"
+ P3 8
+ JP17 1
+ JP41 1
+ P1 17
+Net 12 "/CHIP_18" "CHIP_18"
+ P1 18
+ P3 7
+ JP18 1
+ JP42 1
+Net 13 "/CHIP_19" "CHIP_19"
+ JP19 1
+ P1 19
+ JP43 1
+ P3 6
+Net 14 "/CHIP_20" "CHIP_20"
+ P1 20
+ P3 5
+ JP20 1
+ JP44 1
+Net 15 "/CHIP_21" "CHIP_21"
+ P1 21
+ JP45 1
+ JP21 1
+ P3 4
+Net 16 "/CHIP_23" "CHIP_23"
+ JP23 1
+ JP47 1
+ P1 23
+ P3 2
+Net 17 "/CHIP_24" "CHIP_24"
+ JP24 1
+ P1 24
+ JP48 1
+ P3 1
+Net 18 "/CHIP_12" "CHIP_12"
+ P2 12
+ JP36 1
+ P1 12
+ JP12 1
+Net 19 "/CHIP_11" "CHIP_11"
+ JP35 1
+ P1 11
+ JP11 1
+ P2 11
+Net 20 "/CHIP_10" "CHIP_10"
+ JP10 1
+ JP34 1
+ P1 10
+ P2 10
+Net 21 "/CHIP_9" "CHIP_9"
+ JP33 1
+ P1 9
+ JP9 1
+ P2 9
+Net 22 "/CHIP_8" "CHIP_8"
+ JP8 1
+ P2 8
+ P1 8
+ JP32 1
+Net 23 "/CHIP_7" "CHIP_7"
+ P2 7
+ JP7 1
+ P1 7
+ JP31 1
+Net 24 "/CHIP_6" "CHIP_6"
+ JP6 1
+ JP30 1
+ P1 6
+ P2 6
+Net 25 "VCC" "VCC"
+ JP42 2
+ JP41 2
+ JP40 2
+ JP39 2
+ JP38 2
+ JP37 2
+ JP36 2
+ JP35 2
+ JP34 2
+ JP33 2
+ JP32 2
+ JP48 2
+ JP47 2
+ JP46 2
+ JP45 2
+ JP44 2
+ JP43 2
+ JP30 2
+ JP31 2
+ JP29 2
+ JP28 2
+ JP27 2
+ JP26 2
+ JP25 2
  P6 1
  C2 1
  C1 1
+ P7 1
+Net 26 "GND" "GND"
+ JP8 2
+ JP9 2
+ JP10 2
+ JP11 2
+ JP12 2
+ JP13 2
+ JP14 2
+ JP15 2
+ JP16 2
+ C1 2
+ C2 2
+ JP7 2
+ JP2 2
+ JP24 2
+ JP23 2
+ JP22 2
+ JP21 2
+ JP20 2
+ JP19 2
+ JP18 2
+ JP17 2
+ JP6 2
+ JP5 2
+ JP4 2
+ JP3 2
+ P4 1
+ JP1 2
+ P5 1
 }
 #End
