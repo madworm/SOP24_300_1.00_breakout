@@ -1,0 +1,210 @@
+EESchema Schematic File Version 2  date Sat 01 Sep 2012 10:39:17 PM CEST
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:SOP24_300_1.00_breakout-cache
+EELAYER 25  0
+EELAYER END
+$Descr A4 11700 8267
+encoding utf-8
+Sheet 1 1
+Title "SOP24-300-1.00 breakout"
+Date "1 sep 2012"
+Rev "1.00"
+Comp "2012 - blog.spitzenpfeil.org"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Connection ~ 6950 3600
+Wire Wire Line
+	7150 3600 6600 3600
+Wire Wire Line
+	7150 4100 7150 4050
+Wire Wire Line
+	6950 4050 6950 4100
+Wire Wire Line
+	6600 3600 6600 3650
+Wire Wire Line
+	5700 4300 5800 4300
+Wire Wire Line
+	5700 4100 5800 4100
+Wire Wire Line
+	5700 3900 5800 3900
+Wire Wire Line
+	5700 3700 5800 3700
+Wire Wire Line
+	5700 3500 5800 3500
+Wire Wire Line
+	5700 3300 5800 3300
+Wire Wire Line
+	4900 4300 5000 4300
+Wire Wire Line
+	4900 4100 5000 4100
+Wire Wire Line
+	4900 3900 5000 3900
+Wire Wire Line
+	4900 3700 5000 3700
+Wire Wire Line
+	4900 3500 5000 3500
+Wire Wire Line
+	4900 3300 5000 3300
+Wire Wire Line
+	4900 3400 5000 3400
+Wire Wire Line
+	4900 3600 5000 3600
+Wire Wire Line
+	4900 3800 5000 3800
+Wire Wire Line
+	4900 4000 5000 4000
+Wire Wire Line
+	4900 4200 5000 4200
+Wire Wire Line
+	5000 4400 4900 4400
+Wire Wire Line
+	5700 3400 5800 3400
+Wire Wire Line
+	5700 3600 5800 3600
+Wire Wire Line
+	5700 3800 5800 3800
+Wire Wire Line
+	5700 4000 5800 4000
+Wire Wire Line
+	5700 4200 5800 4200
+Wire Wire Line
+	5700 4400 5800 4400
+Wire Wire Line
+	6950 3600 6950 3650
+Wire Wire Line
+	6600 4100 6600 4050
+Wire Wire Line
+	6600 4050 7150 4050
+Connection ~ 6950 4050
+$Comp
+L VCC #PWR?
+U 1 1 504269B0
+P 7150 3600
+F 0 "#PWR?" H 7150 3700 30  0001 C CNN
+F 1 "VCC" H 7150 3700 30  0000 C CNN
+	1    7150 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5042686E
+P 7150 4100
+F 0 "#PWR?" H 7150 4100 30  0001 C CNN
+F 1 "GND" H 7150 4030 30  0001 C CNN
+	1    7150 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P5
+U 1 1 5042646A
+P 6950 4250
+F 0 "P5" H 7030 4250 40  0000 L CNN
+F 1 "CONN_1" H 6950 4305 30  0001 C CNN
+	1    6950 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L CONN_1 P4
+U 1 1 50426467
+P 6600 4250
+F 0 "P4" H 6680 4250 40  0000 L CNN
+F 1 "CONN_1" H 6600 4305 30  0001 C CNN
+	1    6600 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L CONN_1 P7
+U 1 1 50426464
+P 6950 3450
+F 0 "P7" H 7030 3450 40  0000 L CNN
+F 1 "CONN_1" H 6950 3505 30  0001 C CNN
+	1    6950 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 P6
+U 1 1 5042645F
+P 6600 3450
+F 0 "P6" H 6680 3450 40  0000 L CNN
+F 1 "CONN_1" H 6600 3505 30  0001 C CNN
+	1    6600 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C C2
+U 1 1 50426447
+P 6950 3850
+F 0 "C2" H 7000 3950 50  0000 L CNN
+F 1 "C" H 7000 3750 50  0000 L CNN
+	1    6950 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C1
+U 1 1 50426442
+P 6600 3850
+F 0 "C1" H 6650 3950 50  0000 L CNN
+F 1 "C" H 6650 3750 50  0000 L CNN
+	1    6600 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL24 P1
+U 1 1 50424533
+P 5350 3850
+F 0 "P1" H 5350 4650 70  0000 C CNN
+F 1 "SOP24-300-1.00" H 5350 3000 70  0000 C CNN
+	1    5350 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_12 P3
+U 1 1 504244A9
+P 4550 3850
+F 0 "P3" V 4500 3850 60  0000 C CNN
+F 1 "CONN_12" V 4600 3850 60  0000 C CNN
+	1    4550 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_12 P2
+U 1 1 504244A6
+P 6150 3850
+F 0 "P2" V 6100 3850 60  0000 C CNN
+F 1 "CONN_12" V 6200 3850 60  0000 C CNN
+	1    6150 3850
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,6 +1,6 @@
-update=Sat 01 Sep 2012 02:17:06 PM CEST
+update=Sat 01 Sep 2012 09:42:13 PM CEST
 version=1
-last_client=kicad
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -63,6 +63,8 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+[general]
+version=1
 [cvpcb]
 version=1
 NetIExt=net
@@ -84,19 +86,19 @@ DrawLar=150
 EdgeLar=150
 TxtLar=120
 MSegLar=150
-LastNetListRead=
+LastNetListRead=SOP24_300_1.00_breakout.net
 [pcbnew/libraries]
 LibDir=
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=led
-LibName9=dip_sockets
-LibName10=pga_sockets
-LibName11=valves
-[general]
-version=1
+LibName1=/home/robert/Arduino/KiCAD/LIBS/my_parts
+LibName2=ref-packages
+LibName3=sockets
+LibName4=connect
+LibName5=discret
+LibName6=pin_array
+LibName7=divers
+LibName8=libcms
+LibName9=display
+LibName10=led
+LibName11=dip_sockets
+LibName12=pga_sockets
+LibName13=valves
